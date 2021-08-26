@@ -1,1 +1,2 @@
 # InstagramSimulation
+ This project requires to design, implement and document a database system for a web-based photo social sharing application(Very similar to Instagram). More specifically, the applicant uses SQL queries to store and filter the user database and uses Python for the general system manipulation. The product also provides the web-based interface to the database, which is done by HTML. 
